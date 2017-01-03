@@ -24,7 +24,6 @@ Then, various demos are available
 >> demo_first
 >> demo_warmstart
 >> demo_correct_attenuation
->> demo_alternate_minimization
 
 Main functions: 
 
