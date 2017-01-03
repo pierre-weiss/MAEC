@@ -18,7 +18,7 @@
 
 To start, open matlab and type
 >> compile_all
-this will compile all mex files on your system. By default, only the linux64 architecture should be working.
+this will compile all mex files on your system. 
 
 Then, various demos are available
 >> demo_first
